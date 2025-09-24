@@ -1,0 +1,19 @@
+body{
+    font-family: "Saira", sans-serif;
+    background-color: #ffecc8;
+    color: #cc3633;
+    padding: 30px 70px;
+}
+
+h1{
+    font-weight: 900;
+}
+
+ol li{
+    margin: 5px 0;
+}
+
+#imgs img{
+    width: 400px;
+    height: 250px;
+}

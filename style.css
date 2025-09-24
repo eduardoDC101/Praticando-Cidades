@@ -1,0 +1,82 @@
+body{
+    background-color: #d3d3d3;
+    font-family: "Saira", sans-serif;
+    padding: 30px 70px;
+}
+
+.negritounderline{
+    font-weight: 600;
+    text-decoration: underline;
+}
+
+#SP{
+    font-family: "Saira", sans-serif;
+    background-color: #ffecc8;
+    color: #cc3633;
+    padding: 20px;
+}
+
+#SP ul{
+    color: black;
+}
+
+#SP table, tr, td{
+    border-collapse: collapse;
+    border: 2px solid black;
+}
+
+#SP tr, td{
+    background-color: white;
+    padding: 2px;
+    color: black;
+}
+
+.fundotable td{
+    background-color: #808080;
+}
+
+#RJ{
+    font-family: "Dancing Script", cursive;
+    background-color: #d2e0FB;
+    color: #295a8d;
+    padding: 20px;
+}
+
+#RJ ul{
+    color: black;
+}
+
+#RJ table, tr, td{
+    border-collapse: collapse;
+    border: 2px solid black;
+}
+
+#RJ tr, td{
+    background-color: white;
+    padding: 2px;
+    color: black;
+}
+
+
+
+#MG{
+    font-family: "Merriweather", serif;
+    background-color: #fff9e1;
+    color: #477660;
+    padding: 20px;
+}
+
+#MG ul{
+    color: black;
+}
+
+#MG table, tr, td{
+    border-collapse: collapse;
+    border: 2px solid black;
+}
+
+#MG tr, td{
+    background-color: white;
+    padding: 2px;
+    color: black;
+}
